@@ -22,6 +22,7 @@ gem 'bootstrap', '~> 4.0.0.alpha3.1'
 gem 'devise'
 gem 'high_voltage'
 gem 'pg'
+gem "figaro"
 group :development do
   gem 'better_errors'
   gem 'guard-bundler'
